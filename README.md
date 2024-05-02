@@ -11,7 +11,7 @@
   <strong>Paper [coming April 10th]</strong>
 </p>
 
-
+## 👋 Overview <a name="overview"></a>
 ## 👋 Overview <a name="overview"></a>
 SWE-agent turns LMs (e.g. GPT-4) into software engineering agents that can fix bugs and issues in real GitHub repositories.
 
